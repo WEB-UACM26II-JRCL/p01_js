@@ -2,8 +2,8 @@
 
 ## Datos del estudiante
 
-- Nombre: [Completar]
-- Grupo: [Completar]
+- Nombre: [Jose Roberto Cruz Lazaro]
+- Grupo: []
 
 ## Descripcion
 
@@ -47,4 +47,4 @@ entrada de datos, generacion de numeros aleatorios y manipulacion del HTML.
 
 ## Observaciones del estudiante
 
-[Escribir brevemente que se aprendio y que dificultades surgieron.]
+[Se aprendio varias funciones y palabras reservadas, ademas tuve problemas identacion.]
